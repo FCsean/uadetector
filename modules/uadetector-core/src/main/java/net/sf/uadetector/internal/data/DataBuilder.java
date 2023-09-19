@@ -27,7 +27,7 @@ import java.util.SortedSet;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 import javax.annotation.concurrent.NotThreadSafe;
 
 import net.sf.qualitycheck.Check;

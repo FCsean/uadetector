@@ -21,7 +21,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
 
 import javax.annotation.Nonnegative;
-import javax.annotation.PreDestroy;
+import jakarta.annotation.PreDestroy;
 
 import net.sf.qualitycheck.Check;
 import net.sf.uadetector.datastore.RefreshableDataStore;

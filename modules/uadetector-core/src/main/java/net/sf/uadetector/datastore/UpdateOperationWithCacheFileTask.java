@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.Charset;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.Check;
 import net.sf.uadetector.exception.CanNotOpenStreamException;

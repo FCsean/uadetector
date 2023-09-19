@@ -15,7 +15,7 @@
  ******************************************************************************/
 package net.sf.uadetector;
 
-import javax.annotation.PreDestroy;
+import jakarta.annotation.PreDestroy;
 
 /**
  * Basic interface for user agent string parsers.

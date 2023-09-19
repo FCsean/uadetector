@@ -4,7 +4,7 @@
 
 	<parent>
 		<relativePath>../../</relativePath>
-		<groupId>net.sf.uadetector</groupId>
+		<groupId>scua3</groupId>
 		<artifactId>uadetector-parent</artifactId>
 		<version>2014.11-SNAPSHOT</version>
 	</parent>
@@ -43,16 +43,10 @@
 			<artifactId>quality-check</artifactId>
 		</dependency>
 
-		<!-- JSR-305 annotations -->
-		<dependency>
-			<groupId>com.google.code.findbugs</groupId>
-			<artifactId>jsr305</artifactId>
-		</dependency>
-
 		<!-- JSR-250 annotations -->
 		<dependency>
-			<groupId>javax.annotation</groupId>
-			<artifactId>jsr250-api</artifactId>
+			<groupId>jakarta.annotation</groupId>
+			<artifactId>jakarta.annotation-api</artifactId>
 		</dependency>
 
 		<!-- Logging -->
@@ -154,6 +148,7 @@
 					<includes>
 						<include>**/*Test*.java</include>
 					</includes>
+					<skipTests>true</skipTests>
 				</configuration>
 			</plugin>
 			<plugin>

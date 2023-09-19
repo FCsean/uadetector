@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.Check;
 import net.sf.uadetector.internal.data.domain.Browser;

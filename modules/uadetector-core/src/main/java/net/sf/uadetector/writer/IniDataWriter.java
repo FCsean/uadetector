@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.SortedSet;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 import javax.annotation.concurrent.ThreadSafe;
 
 import net.sf.qualitycheck.Check;

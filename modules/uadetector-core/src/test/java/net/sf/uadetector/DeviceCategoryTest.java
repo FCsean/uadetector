@@ -2,7 +2,7 @@ package net.sf.uadetector;
 
 import static org.fest.assertions.Assertions.assertThat;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.exception.IllegalEmptyArgumentException;
 import net.sf.qualitycheck.exception.IllegalNullArgumentException;

@@ -18,7 +18,7 @@ package net.sf.uadetector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.Check;
 

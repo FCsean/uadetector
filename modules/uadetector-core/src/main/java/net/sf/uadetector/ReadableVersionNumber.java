@@ -17,7 +17,7 @@ package net.sf.uadetector;
 
 import java.util.List;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 /**
  * Defines a version number of an operating system or user agent.<br>

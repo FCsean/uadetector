@@ -21,7 +21,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.nio.charset.Charset;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;

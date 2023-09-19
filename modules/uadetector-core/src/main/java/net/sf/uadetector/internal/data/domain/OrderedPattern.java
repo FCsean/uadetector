@@ -18,7 +18,7 @@ package net.sf.uadetector.internal.data.domain;
 import java.util.regex.Pattern;
 
 import javax.annotation.Nonnegative;
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 public interface OrderedPattern<T extends OrderedPattern<?>> extends Comparable<T> {
 

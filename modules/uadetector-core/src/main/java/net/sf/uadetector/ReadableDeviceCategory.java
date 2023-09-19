@@ -1,6 +1,6 @@
 package net.sf.uadetector;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.Check;
 

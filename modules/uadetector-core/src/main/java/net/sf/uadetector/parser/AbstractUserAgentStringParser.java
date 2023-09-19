@@ -18,7 +18,7 @@ package net.sf.uadetector.parser;
 import java.util.Map.Entry;
 import java.util.regex.Matcher;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.uadetector.DeviceCategory;
 import net.sf.uadetector.ReadableDeviceCategory.Category;

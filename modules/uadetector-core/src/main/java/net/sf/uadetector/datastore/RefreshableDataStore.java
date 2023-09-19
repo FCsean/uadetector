@@ -15,7 +15,7 @@
  ******************************************************************************/
 package net.sf.uadetector.datastore;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 /**
  * Extends the interface with an update functionality for <em>UAS data</em> in the store.

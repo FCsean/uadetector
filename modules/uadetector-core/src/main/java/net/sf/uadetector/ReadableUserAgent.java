@@ -15,7 +15,7 @@
  ******************************************************************************/
 package net.sf.uadetector;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 /**
  * Defines an user agent.<br>

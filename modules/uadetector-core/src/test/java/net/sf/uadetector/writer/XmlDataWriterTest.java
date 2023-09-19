@@ -23,7 +23,7 @@ import java.io.StringReader;
 import java.io.StringWriter;
 import java.net.URL;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.dom.DOMSource;

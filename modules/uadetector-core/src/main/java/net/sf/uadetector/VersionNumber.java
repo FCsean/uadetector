@@ -22,8 +22,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import javax.annotation.Nonnull;
-import javax.annotation.Nullable;
+import jakarta.annotation.Nonnull;
+import jakarta.annotation.Nullable;
 
 import net.sf.qualitycheck.Check;
 import net.sf.qualitycheck.exception.IllegalStateOfArgumentException;

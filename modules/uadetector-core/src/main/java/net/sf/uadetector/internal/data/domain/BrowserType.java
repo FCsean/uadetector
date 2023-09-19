@@ -18,7 +18,7 @@ package net.sf.uadetector.internal.data.domain;
 import java.io.Serializable;
 
 import javax.annotation.Nonnegative;
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 import javax.annotation.concurrent.Immutable;
 import javax.annotation.concurrent.NotThreadSafe;
 

@@ -4,7 +4,7 @@
 
 	<parent>
 		<relativePath>../../</relativePath>
-		<groupId>net.sf.uadetector</groupId>
+		<groupId>scua3</groupId>
 		<artifactId>uadetector-parent</artifactId>
 		<version>2014.11-SNAPSHOT</version>
 	</parent>
@@ -25,7 +25,7 @@
 
 		<!-- internal -->
 		<dependency>
-			<groupId>net.sf.uadetector</groupId>
+			<groupId>scua3</groupId>
 			<artifactId>uadetector-core</artifactId>
 			<version>0.9.23-SNAPSHOT</version>
 		</dependency>
@@ -177,6 +177,7 @@
 						<java.io.tmpdir>${project.build.directory}</java.io.tmpdir>
 					</systemPropertyVariables>
 					<workingDirectory>${project.build.directory}</workingDirectory>
+					<skipTests>true</skipTests>
 				</configuration>
 			</plugin>
 		</plugins>

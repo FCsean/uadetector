@@ -17,7 +17,7 @@ package net.sf.uadetector.internal.data.domain;
 
 import static org.fest.assertions.Assertions.assertThat;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.exception.IllegalNegativeArgumentException;
 import net.sf.qualitycheck.exception.IllegalNullArgumentException;

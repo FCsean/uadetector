@@ -18,7 +18,7 @@ package net.sf.uadetector.internal.util;
 import java.io.Closeable;
 import java.io.IOException;
 
-import javax.annotation.Nullable;
+import jakarta.annotation.Nullable;
 
 import net.sf.uadetector.exception.CannotCloseException;
 

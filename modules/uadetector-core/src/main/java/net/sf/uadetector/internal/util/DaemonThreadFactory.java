@@ -17,7 +17,7 @@ package net.sf.uadetector.internal.util;
 
 import java.util.concurrent.ThreadFactory;
 
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 import net.sf.qualitycheck.Check;
 
